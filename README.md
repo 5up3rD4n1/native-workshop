@@ -14,6 +14,7 @@ To install `explo-cli` run:
 
 To run the app:
 
+	$ npm install
 	$ npm start
 
 Modifications by @5up3D4n1
